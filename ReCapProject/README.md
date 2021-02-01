@@ -1,2 +1,0 @@
-# ReCapProject
-Araç kiralama uygulaması
