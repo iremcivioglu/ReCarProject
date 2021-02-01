@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "bqffmEkypjDa25R7ZEM1HoScZsJdLffoJsxq7vH3SS8UX7am28EhfYU2wXy58gx/kBJv5HpwYqOeZdV8Gp9VPA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\IREM\\source\\repos\\ReCapProject\\Entities\\Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\IREM\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\IREM\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
