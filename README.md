@@ -1,2 +1,0 @@
-# ReCarProject
-Araç Kiralama Uygulaması
